@@ -26,15 +26,12 @@ assignees: ''
 ## Review Process Checklist 
 <!-- (completed by reviewer) -->
 - [ ] Code QA
-- [ ] User Experience (ACF Fields)
-- [ ] A11y
+- [ ] A11y QA
 - [ ] Visual QA
     - [ ] Desktop QA
     - [ ] Responsive QA in browser
     - [ ] Mobile QA
-- [ ] Checked buttons 
-- [ ] Form elements
-- [ ] Hover and focus states
+- [ ] User Experience
 
 ## Action Items for Developer
 <!-- (completed by developer) -->
