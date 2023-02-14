@@ -19,9 +19,9 @@ assignees: ''
 
 ## Links
 
-- **Dev Link:** [#](link to dev site)
-- **Design Link:** [#](link to design files)
-- **Trello Card:** [#](link to trello card)
+- **Dev Link:** [link to dev site](#)
+- **Design Link:** [link to design files](#)
+- **Trello Card:** [link to trello card](#)
 
 ## Review Process Checklist 
 <!-- (completed by reviewer) -->
