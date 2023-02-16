@@ -1,6 +1,6 @@
 ---
-name:      'Internal Review'
-about:     'Create a tracking issue for an internal review'
+name:      'Internal Code Review'
+about:     'Create a tracking issue for an internal code review'
 title:     'Internal Review: [template/component name]'
 labels:    'internal-review'
 assignees: ''
