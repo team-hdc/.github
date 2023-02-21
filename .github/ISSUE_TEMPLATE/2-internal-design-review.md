@@ -1,7 +1,7 @@
 ---
 name:      'Internal Design Review'
 about:     'Create a tracking issue for an internal design review'
-title:     'Internal Design Review: [template/component name]'
+title:     'Internal Design Review: All Templates'
 labels:    'internal-review'
 assignees: ''
 
@@ -10,7 +10,7 @@ assignees: ''
 <!--
 	Please fill out the following information as completely as possible.
 
-	Please note the specific template/component in the Title above.
+	Please note the specific template/component in the Title above if it's specific, otherwise we will assume it's for the full site.
 
 	Please delete anything that does not apply for you!
 
@@ -25,7 +25,12 @@ assignees: ''
 
 ## Review Process Checklist 
 <!-- (completed by reviewer) -->
-
+- [ ] Fonts
+- [ ] Colors
+- [ ] Margin/Padding/Spacing
+- [ ] Header
+- [ ] Footer
+- [ ] Review all templates 
 
 ## Action Items for Developer
 <!-- (completed by developer) -->
