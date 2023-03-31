@@ -1,8 +1,7 @@
 ---
-name:      'Internal Code Review'
-about:     'Create a tracking issue for an internal code review'
-title:     'Internal Review: [template/component name]'
-labels:    'internal-review'
+name:      'Project Task'
+about:     'Create a tracking issue for a task in your project'
+title:     'Task: [template/component name]'
 assignees: ''
 
 ---
@@ -17,13 +16,26 @@ assignees: ''
 	Note: These comments won't show up when you submit the issue.
 -->
 
-## Links
+## Task Details
 
 - **Dev Link:** [link to dev site](#)
 - **Design Link:** [link to design files](#)
-- **Trello Card:** [link to trello card](#)
 
-## Review Process Checklist 
+_Add any relevant screenshots or details to help not only your future self but anyone else reviewing this task._
+
+## Action Items
+<!-- (completed by developer) -->
+- [ ] Add any action items for this task here
+
+## Internal Review
+_Once this task is complete, assign the issue to your project lead and they'll review the work._
+
+<!--
+	The following is for the project lead/reviewing developer to complete.
+-->
+### General Comments
+
+### Review Process Checklist 
 <!-- (completed by reviewer) -->
 - [ ] Code QA ([docs](https://docs.google.com/document/d/1u3tg9-Hdf_xukytKHiPf8OzdmIH_ySyHR7vwW0o_Dl8/edit?usp=share_link))
 - [ ] Accessibility ([docs](https://docs.google.com/document/d/1ZaLbW1RKd7efA-yuImt5qBFlOcLXRIHIsfC7Lp6d7Tw/edit?usp=share_link))
@@ -32,7 +44,3 @@ assignees: ''
     - [ ] Responsive in browser
     - [ ] Mobile
 - [ ] Editor Experience ([docs](https://docs.google.com/document/d/1kBcE5OiVRA65tKbuWnnPJuRV7T36ItWAxoF1hElSsLI/edit?usp=share_link))
-
-## Action Items for Developer
-<!-- (completed by developer) -->
-- [ ] Add any action items for the developer here
